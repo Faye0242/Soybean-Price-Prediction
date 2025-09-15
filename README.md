@@ -3,6 +3,8 @@ Soybeans are highly useful for many agricultural industries and companies. In pa
 
 This is my personal project based on my interest and past experience in analyzing soybean prices. The skillset used in this project includes: **Excel, Jupyter Notebook(Python), ML models**. This project includes **Web Scrapping, API, EDA(exploratory data analysis), data visualization, machine learning modeling, time-series, and business analyzing reports.**
 
+https://www.moa.gov.cn/ztzl/ddymdzfhjs/mtbd_29066/wenzi/202208/t20220811_6406740.htm
+
 ### Project Overview 项目介绍
 大豆是中国饲料与食品产业的重要原料，中国进口依赖度超过 80%。在中国市场的应用，中国进口大豆价格通常是 CBOT 期货 + 基差（运费、升贴水、关税、汇率调整）。所以中国企业虽然最终买的是 现货大豆，但价格基准往往来自 CBOT 期货。
 本项目结合 **国际期货市场数据（CBOT）**、**美国 USDA 出口数据** 和 **中国海关进口数据**，研究CBOT大豆价格波动对中国进口成本的传导效应，并提出风险管理商业建议。
